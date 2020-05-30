@@ -1,0 +1,13 @@
+{
+    "name": "xpkhq/distrobin",
+    "description": "Easy binary distribution platform.",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Tianle Xu",
+            "email": "xtl@xtlsoft.top"
+        }
+    ],
+    "require": {}
+}
